@@ -1,4 +1,4 @@
-definitio fact_rec(n):
+def fact_rec(n):
 
   if n == 0 or n == 1:
     return 1
